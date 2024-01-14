@@ -1,0 +1,3 @@
+# Ignore setup/unnecessary files for the regular developer
+.DS_Store
+.gitattributes
